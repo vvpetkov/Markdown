@@ -11,9 +11,8 @@
 Блок за код на JS
 
 
-https://github.com/vvpetkov/Markdown.git
+![Блок за код на JS](obratenapostrofjs.jpg)
 
-![Alt text](relative/path/to/obratenapostrofjs.jpg?raw=true "Title")
 
 
 ```javascript
