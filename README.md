@@ -10,9 +10,11 @@
 
 Блок за код на JS
 
-![](C:\Users\MY\Pictures\0-BIN\obratenapostrofjs.jpg)
+
 https://github.com/vvpetkov/Markdown.git
-![alt text](https://github.com/vvpetkov/Markdown/obratenapostrofjs.jpg)
+
+![Alt text](relative/path/to/obratenapostrofjs.jpg?raw=true "Title")
+
 
 ```javascript
 let blockOfCode = " ```JavaScript "
@@ -44,21 +46,11 @@ Markdown | Доста | Грубо
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Списък
 
-Емоджита
+[Емоджита](https://emojipedia.org/objects/)
+[🦠](https://emojipedia.org/microbe/)
+🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠
+[🧫](https://emojipedia.org/petri-dish/)
 
-Линк
+[Линк](https://github.com/vvpetkov/Markdown.git)
