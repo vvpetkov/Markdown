@@ -1,14 +1,14 @@
 # Markdown
 
-Как да напишем readme.md 
+## Как да напишем readme.md 
 
 
 
-Заглавие
+### Заглавие
 
 ​	Пред заглавието сложи # и празно пространство
 
-Блок за код на JS
+### Блок за код на JS
 
 
 ![Блок за код на JS](obratenapostrofjs.jpg)
@@ -28,7 +28,7 @@ let blockOfCode = " ```JavaScript "
 
 
 
-Таблица
+### Таблица
 
 ```
 Markdown | Доста | Грубо
@@ -47,7 +47,7 @@ Markdown | Доста | Грубо
 ![Лесно се прави с Тypora!](tablica-typora.jpg)
 
 
-Списък
+### Списък
 
 
 ```
@@ -65,8 +65,8 @@ Markdown | Доста | Грубо
    1. Item 3a
    1. Item 3b
 
-[Емоджита](https://emojipedia.org/objects/)  
-[🦠](https://emojipedia.org/microbe/)  
+### [Емоджита](https://emojipedia.org/objects/)  
+### [🦠](https://emojipedia.org/microbe/)  
 🦠🦠  
 🦠🦠🦠  
 🦠🦠🦠🦠  
@@ -74,4 +74,4 @@ Markdown | Доста | Грубо
 🦠🦠🦠🦠🦠🦠  
 [🧫](https://emojipedia.org/petri-dish/)  
 
-[Линк](https://github.com/vvpetkov/Markdown.git)  
+### [Линк](https://github.com/vvpetkov/Markdown.git)  
