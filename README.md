@@ -45,11 +45,11 @@ Markdown | Доста | Грубо
 
 
 
-Списък
+Списък  
 
-[Емоджита](https://emojipedia.org/objects/)
-[🦠](https://emojipedia.org/microbe/)
-🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠
-[🧫](https://emojipedia.org/petri-dish/)
+[Емоджита](https://emojipedia.org/objects/)  
+[🦠](https://emojipedia.org/microbe/)  
+🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠  
+[🧫](https://emojipedia.org/petri-dish/)  
 
-[Линк](https://github.com/vvpetkov/Markdown.git)
+[Линк](https://github.com/vvpetkov/Markdown.git)  
