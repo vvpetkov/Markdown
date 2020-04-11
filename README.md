@@ -49,7 +49,7 @@ Markdown | Доста | Грубо
 
 [Емоджита](https://emojipedia.org/objects/)  
 [🦠](https://emojipedia.org/microbe/)  
-🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠🦠  
+🦠🦠  🦠🦠🦠  🦠🦠🦠🦠  🦠🦠🦠🦠🦠  🦠🦠🦠🦠🦠🦠  
 [🧫](https://emojipedia.org/petri-dish/)  
 
 [Линк](https://github.com/vvpetkov/Markdown.git)  
